@@ -16,7 +16,7 @@ public class AlcActivity extends AppCompatActivity {
 
     WebView webView;
 
-    String url = "https//www.google.com";
+    String url = "https//www.andela.com/alc";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
